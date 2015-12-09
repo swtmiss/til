@@ -7,7 +7,7 @@
 
 #### Color Highlighter란?
 
-Sublime Text에서 CSS 16진수(예를 들면:#d2691e ...색 이름은 chocolate인데 도저히 납득이 안 된다)로 표현된 색을 
+Sublime Text에서 CSS 16진수(예를 들면: [#d2691e](http://www.color-hex.com/color/d2691e) ...색 이름은 [chocolate](http://www.color-hex.com/color/d2691e)인데 도저히 납득이 안 된다)로 표현된 색을 
 highlight해줌으로써 가독성을 UP!시켜주는 착한 친구다.
 
 ### 1. Sublime Text package control을 인스톨
