@@ -11,6 +11,7 @@ Sublime Text에서 CSS 16진수(예를 들면:#d2691e ...색 이름은 chocolate
 highlight해줌으로써 가독성을 UP!시켜주는 착한 친구다.
 
 ### 1. Sublime Text package control을 인스톨
+
 링크: [Package Control](https://packagecontrol.io/installation#st3)
 
 1. Sublime Text를 열고, `Preferences > Browse Packages…`메뉴를 클릭. (아날로그니까!)
@@ -20,6 +21,7 @@ highlight해줌으로써 가독성을 UP!시켜주는 착한 친구다.
 5. Sublime Text를 restart.
 
 ### 2. Command Palette를 연다
+
 `shift + command + p`를 입력하거나, `Tools > Command Palette`(아날로그!)를 클릭한다
 
 ### 3. install을 검색하면 뜨는 `Package Control: Install Package` <-클릭해서 다운받는다
