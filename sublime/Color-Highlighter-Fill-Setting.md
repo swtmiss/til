@@ -20,6 +20,7 @@ Color Highlighter에서 컬러가 더 보기 쉽게 해당 색으로 하이라�
 
 :sparkles:짜잔:sparkles:
 
+
 ## How to
 
 `Preferences > Package Settings > Color Highlighter > Settings - User`로 가서 다음을 입력.
@@ -27,11 +28,11 @@ Color Highlighter에서 컬러가 더 보기 쉽게 해당 색으로 하이라�
 ![Setting - User]
 (fill-setting.png)
 
-‘‘‘
+```
 {
   "ha_style": "filled"
 }
-‘‘‘
+```
 
 그리고 ‘Command + S‘로 저장한다.
 
